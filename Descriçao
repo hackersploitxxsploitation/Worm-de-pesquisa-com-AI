@@ -1,0 +1,7 @@
+Projeto Academico:
+Como funciona esse Projeto
+temos as funçoes
+AI_geneative_Wordlist--> AI generativaque cria  word list para brute force
+Tecnique_AI_Lateral--> nossa rede neural e treinada pra  realizar movimentos  Lateral na rede
+os arquivo .csv sao convertidos numa matriz de bytes que sao usado pelo nosso modelo 
+Feito para Propositos educacionais
